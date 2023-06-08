@@ -1,0 +1,25 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+*.egg
+*.log
+
+# Flask
+instance/
+.pytest_cache/
+
+# Database
+database.db
+
+# IDE/Editor specific
+.vscode/
+.idea/
+
+# Miscellaneous
+*.swp
+.DS_Store
