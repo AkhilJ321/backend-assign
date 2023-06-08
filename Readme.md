@@ -68,6 +68,4 @@ This is a simple User Task Management System REST API built using Python and Fla
 - `requirements.txt`: Lists the required Python packages and their versions.
 - `README.md`: Project documentation file.
 
-## Contributing
 
-Contributions are welcome! If you find any issues or want to add new features, feel free to open an issue or submit a pull request.
