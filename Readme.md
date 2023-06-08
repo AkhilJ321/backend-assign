@@ -1,6 +1,6 @@
 # User Management System
 
-This is a simple User Management System REST API built using Python and Flask. It provides endpoints to create, update, list, and paginate tasks.
+This is a simple User Task Management System REST API built using Python and Flask. It provides endpoints to create, update, list, and paginate tasks.
 
 ## Prerequisites
 
